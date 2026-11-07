@@ -39,3 +39,5 @@ La app busca versiones nuevas al arrancar (también desde Configuración → Bus
 - **[Wails](https://wails.io/)** (Lea Anthony y colaboradores, licencia MIT): el framework de la app.
 - **Bibliotecas**: [godbus/dbus](https://github.com/godbus/dbus) (BSD-2-Clause), [golang.org/x/sys](https://pkg.go.dev/golang.org/x/sys) y [golang.org/x/text](https://pkg.go.dev/golang.org/x/text) (BSD-3-Clause), [yaml.v3](https://github.com/go-yaml/yaml) (MIT y Apache-2.0).
 - **AppImage**: incluye GTK, WebKitGTK y sus dependencias, que se distribuyen bajo sus propias licencias (principalmente LGPL).
+
+Cada versión incluye `THIRD_PARTY_LICENSES-linux.txt` y `THIRD_PARTY_LICENSES-windows.txt`, con la lista completa de componentes de terceros, sus licencias y, para las bibliotecas del AppImage, el enlace a su código fuente.
