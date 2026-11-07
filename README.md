@@ -35,7 +35,7 @@ La app busca versiones nuevas al arrancar (también desde Configuración → Bus
 
 ## Créditos
 
-- **Rutas recomendadas**: los datos son de [PCGamingWiki](https://www.pcgamingwiki.com/), publicados bajo la licencia [CC BY-NC-SA](https://www.pcgamingwiki.com/wiki/PCGamingWiki:Copyrights), y llegan a la app a través del [Ludusavi Manifest](https://github.com/mtkennerly/ludusavi-manifest) de Matthew T. Kennerly (licencia MIT), que los compila. CloudSaves no incluye esos datos: cada instalación los descarga del Ludusavi Manifest cuando se lo pide. Si falta un juego o una ruta está mal, la forma de corregirlo es editar PCGamingWiki.
+- **Rutas recomendadas**: los datos son de [PCGamingWiki](https://www.pcgamingwiki.com/), publicados bajo la licencia [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) (ver [sus condiciones](https://www.pcgamingwiki.com/wiki/PCGamingWiki:Copyrights)), y llegan a la app a través del [Ludusavi Manifest](https://github.com/mtkennerly/ludusavi-manifest) de Matthew T. Kennerly (licencia MIT), que los compila. CloudSaves no incluye esos datos: cada instalación los descarga del Ludusavi Manifest cuando se lo pide. Si falta un juego o una ruta está mal, la forma de corregirlo es editar PCGamingWiki.
 - **[Wails](https://wails.io/)** (Lea Anthony y colaboradores, licencia MIT): el framework de la app.
 - **Bibliotecas**: [godbus/dbus](https://github.com/godbus/dbus) (BSD-2-Clause), [golang.org/x/sys](https://pkg.go.dev/golang.org/x/sys) y [golang.org/x/text](https://pkg.go.dev/golang.org/x/text) (BSD-3-Clause), [yaml.v3](https://github.com/go-yaml/yaml) (MIT y Apache-2.0).
 - **AppImage**: incluye GTK, WebKitGTK y sus dependencias, que se distribuyen bajo sus propias licencias (principalmente LGPL).
